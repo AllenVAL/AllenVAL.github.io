@@ -1,5 +1,5 @@
 # The Art of the Balisong (Butterfly Knife)
-![Balisong Knife](https://upload.wikimedia.org/wikipedia/commons/1/13/Balisong.jpg)
+![Balisong Knife](DSC_0188_098cd7ec-0027-42b4-b6e6-a1eb92d22b5e_800x532.jpg)
 
 The **balisong**, also known as the *butterfly knife*, is a folding knife that originated in the **Philippines**.  
 It features two handles that rotate around the tang, allowing the blade to be concealed within its handles when closed.  
