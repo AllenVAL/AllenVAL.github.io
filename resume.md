@@ -1,5 +1,7 @@
 # Allen Yuan
 
+![Profile photo](assets/profile.png)
+
 **LinkedIn:** http://www.linkedin.com/in/AllenYuan  
 **GitHub:** https://github.com/[AllenVAL]  
 **Email:** jiach@uw.edu
