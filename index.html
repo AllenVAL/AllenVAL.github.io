@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Allen Yuan | Resume</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; background: #fafafa; }
+    .wrap { max-width: 900px; margin: 0 auto; padding: 28px 18px; }
+    header { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; }
+    img.profile { width: 110px; height: 110px; object-fit: cover; border-radius: 999px; border: 2px solid #ddd; }
+    .card { background: white; border: 1px solid #eee; border-radius: 12px; padding: 18px; box-shadow: 0 2px 10px rgba(0,0,0,.04); }
+    h1, h2, h3 { margin: 0 0 10px; }
+    h2 { margin-top: 22px; }
+    .meta a { word-break: break-all; }
+    blockquote { margin: 14px 0; padding: 10px 14px; border-left: 4px solid #999; background: #f3f3f3; }
+    ul { margin: 8px 0 0 22px; }
+    .small { color: #666; font-size: 0.95rem; }
+    .grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+    @media (min-width: 800px) { .grid { grid-template-columns: 1fr 1fr; } }
+    footer { margin-top: 22px; color: #666; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <header>
+        <img class="profile" src="assets/profile.jpg" alt="Profile photo">
+        <div>
+          <h1>Allen Yuan</h1>
+          <div class="meta small">
+            LinkedIn: <a href="http://www.linkedin.com/in/AllenYuan">http://www.linkedin.com/in/AllenYuan</a><br/>
+            GitHub: <a href="https://github.com/[github_username]">https://github.com/[AllenVAL]</a><br/>
+            Email: <a href="mailto:allen@example.com">jiach@uw.edu</a>
+          </div>
+        </div>
+      </header>
+
+      <!-- Block quote requirement -->
+      <blockquote>
+        “I like turning messy data into clear maps, models, and simple web pages.”
+      </blockquote>
+
+      <!-- Different header levels requirement -->
+      <h2>Summary</h2>
+      <p>
+        Student focusing on data science + GIS + web mapping. I’ve done projects in spatial analysis (food access),
+        machine learning (classification + time-series), and human–AI interaction research.
+      </p>
+
+      <h2>Skills</h2>
+      <!-- List requirement -->
+      <ul>
+        <li><strong>Python:</strong> pandas, numpy, scikit-learn, statsmodels</li>
+        <li><strong>GIS:</strong> ArcGIS Pro, QGIS, GeoJSON</li>
+        <li><strong>Web:</strong> HTML/CSS, basic JavaScript</li>
+        <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
+      </ul>
+
+      <h2>Work Experience (last 10 years)</h2>
+
+      <h3>University of Washington (Seattle, WA)</h3>
+      <p><strong>Student Research / Course Projects (GIS & Data)</strong> (Sep 2024 – Present)</p>
+      <ul>
+        <li><strong>Built interactive maps</strong> to visualize food accessibility patterns using public datasets.</li>
+        <li>Cleaned and joined spatial datasets and produced clear visuals for reports/presentations.</li>
+        <li>Worked in small teams using GitHub for version control and collaboration.</li>
+      </ul>
+
+      <h3>University of Washington (Seattle, WA)</h3>
+      <p><strong>Machine Learning Projects (CSE/STAT 416)</strong> (Jan 2024 – Dec 2025)</p>
+      <ul>
+        <li><strong>Trained predictive models</strong> (logistic regression, ARIMA/SARIMA) and evaluated RMSE/MAE.</li>
+        <li>Did feature engineering and handled missing data in real datasets.</li>
+      </ul>
+
+      <h3>University of Washington (Seattle, WA)</h3>
+      <p><strong>Human–AI Interaction Study (Class Project)</strong> (Mar 2025 – Jun 2025)</p>
+      <ul>
+        <li>Studied how emoji use in AI responses can influence user emotion (valence/arousal).</li>
+        <li>Designed a small mixed-methods plan (survey + interview) and discussed ethics.</li>
+      </ul>
+
+      <h2>Projects</h2>
+      <p class="small">
+        Links (for grading practice):
+        <a href="https://startbootstrap.com/">Start Bootstrap</a> ·
+        <a href="https://www.mapbox.com/">Mapbox</a> ·
+        <a href="https://www.washington.edu/">University of Washington</a>
+      </p>
+
+      <!-- Image requirement (second image) -->
+      <p><img src="assets/project.png" alt="Project screenshot" style="max-width:100%; border:1px solid #eee; border-radius:10px;"></p>
+
+      <footer>
+        This is a practice online resume for a GitHub Pages lab.
+      </footer>
+    </div>
+  </div>
+</body>
+</html>
