@@ -4,7 +4,7 @@
 **GitHub:** https://github.com/[AllenVAL]  
 **Email:** jiach@uw.edu
 
-![Profile photo](../assets/profile.jpg)
+![Profile photo](../assets/profile.png)
 
 > “I enjoy turning messy data into clear maps, models, and stories.”
 
