@@ -59,7 +59,7 @@ I am a University of Washington student focused on **Data + GIS + Web visualizat
 - Live site: https://[github_username].github.io  
 - Repo: https://github.com/[github_username]/[github_username].github.io  
 
-![Project screenshot](../assets/project1.png)
+![Project screenshot](../assets/project.png)
 
 ### Extra Links (for grading practice)
 - UW: https://www.washington.edu  
